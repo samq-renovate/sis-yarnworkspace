@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "vm2": "3.9.15",
-    "handlebars": "4.7.7",
+    "handlebars": "4.7.8",
     "moment": "^2.29.4",
 	"lodash": "4.17.21"
   },
